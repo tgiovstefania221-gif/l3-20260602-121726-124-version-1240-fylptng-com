@@ -1,0 +1,22 @@
+{
+    "parsed_movies": 2000,
+    "video_urls_extracted_from_original_js": 20,
+    "detail_pages": 2000,
+    "category_pages": 10,
+    "category_cards_covering_movies": 2000,
+    "html_pages_total": 2014,
+    "html_without_baidu_script": [],
+    "image_files_in_zip": [],
+    "category_distribution": {
+        "亚洲精选": 200,
+        "华语热映": 200,
+        "日韩剧场": 200,
+        "欧美大片": 200,
+        "悬疑犯罪": 200,
+        "动作冒险": 200,
+        "爱情家庭": 200,
+        "科幻奇幻": 200,
+        "治愈剧情": 200,
+        "年度新片": 200
+    }
+}
